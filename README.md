@@ -1,7 +1,6 @@
 - 👋🏼 Hello, my name is Leonardo Wijayanto
-- 👀 I’m interested in Web Developing & Pentjak Silat combat sport
+- 👀 I’m interested in Frontend Web Developing
 - 🌱 I’m currently learning HTML, CSS, JS
-- 📫 Reach me via LinkedIn, Facebook, or Instagram
 - ⚡ Fun fact: ...
 
 <!---
